@@ -233,7 +233,7 @@
      <item>
       <widget class="QLabel" name="label_4">
        <property name="text">
-        <string>Symbols</string>
+        <string>Words</string>
        </property>
       </widget>
      </item>
@@ -247,7 +247,7 @@
      <item>
       <widget class="QLabel" name="label_5">
        <property name="text">
-        <string>Letters</string>
+        <string>Symbols</string>
        </property>
       </widget>
      </item>
@@ -261,7 +261,7 @@
      <item>
       <widget class="QLabel" name="label_3">
        <property name="text">
-        <string>Words</string>
+        <string>Sentenses</string>
        </property>
       </widget>
      </item>
@@ -275,7 +275,7 @@
      <item>
       <widget class="QLabel" name="label_2">
        <property name="text">
-        <string>Sentenses</string>
+        <string>Letters</string>
        </property>
       </widget>
      </item>
