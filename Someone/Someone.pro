@@ -1,6 +1,6 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2019-05-16T16:46:41
+# Project created by QtCreator 2019-05-23T18:07:21
 #
 #-------------------------------------------------
 
@@ -8,7 +8,7 @@ QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = text-analuzer
+TARGET = Someone
 TEMPLATE = app
 
 # The following define makes your compiler emit warnings if you use
@@ -26,14 +26,10 @@ CONFIG += c++11
 
 SOURCES += \
         main.cpp \
-        mainwindow.cpp \
-    textanaluzer.cpp \
-    someone.cpp
+        mainwindow.cpp
 
 HEADERS += \
-        mainwindow.h \
-    textanaluzer.h \
-    someone.h
+        mainwindow.h
 
 FORMS += \
         mainwindow.ui
